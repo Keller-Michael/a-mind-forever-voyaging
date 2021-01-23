@@ -4,8 +4,8 @@ highlighter:      rouge
 
 # Setup
 title:            Hydeout
-tagline:          'A Jekyll theme'
-description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
+tagline:          'A mind forever voyaging'
+description:      'My life as ABAP developer'
 url:              'https://keller-michael.github.io/'
 baseurl:          '/a-mind-forever-voyaging'
                   # the optional subpath of your site, e.g. "/blog"
