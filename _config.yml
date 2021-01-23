@@ -1,7 +1,6 @@
 # Dependencies
 markdown:         kramdown
 highlighter:      rouge
-remote_theme:     fongandrew/hydeout
 
 # Setup
 title:            Hydeout
@@ -20,6 +19,8 @@ author:
   url:            https://twitter.com/fongandrewc
 
 paginate:         5
+
+remote_theme:     fongandrew/hydeout
 # paginate_path:    '/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
 
