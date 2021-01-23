@@ -3,7 +3,7 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Hydeout
+title:            'A mind forever voyaging'
 tagline:          'A mind forever voyaging'
 description:      'My life as ABAP developer'
 url:              'https://keller-michael.github.io/'
