@@ -10,7 +10,7 @@ title:            Hyde
 tagline:          'test tagline'
 description:      'test description'
 url:              https://github.com/Keller-Michael/a-mind-forever-voyaging
-baseurl:          /
+baseurl:          https://github.com/Keller-Michael/a-mind-forever-voyaging/
 
 author:
   name:           'Mark Otto'
