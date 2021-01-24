@@ -3,8 +3,8 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            A mind forever voyaging - blog by Michael Keller
-tagline:          'A mind forever voyaging'
+title:            A mind forever voyaging
+tagline:          'A mind forever voyaging - blog by Michael Keller'
 description:      'My life as ABAP developer'
 url:              'https://keller-michael.github.io/'
 baseurl:          '/a-mind-forever-voyaging'
@@ -15,8 +15,8 @@ baseurl:          '/a-mind-forever-voyaging'
                   # sidebar_blog_link below.
 
 author:
-  name:           'Andrew Fong'
-  url:            https://twitter.com/fongandrewc
+  name:           'Michael Keller'
+  url:            'https://keller-michael.github.io/a-mind-forever-voyaging'
 
 paginate:         5
 
